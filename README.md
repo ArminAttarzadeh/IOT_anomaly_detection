@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="./figures/Diagram.JPG" alt="system overview" width="800" />
+<img src="./Figures/Diagram.JPG" alt="system overview" width="800" />
 
 This project focuses on detecting anomalies in temperature data collected from IoT devices. It uses a combination of hardware and software components to collect, transmit, and analyze temperature data. The goal is to identify anomalies in real-time using machine learning algorithms.
 
@@ -19,7 +19,7 @@ This project focuses on detecting anomalies in temperature data collected from I
    - **Google Colab/Python**: For applying machine learning algorithms to detect anomalies in the data.
 
 ## Steps
-<img src="./figures/steps_diagram.JPG" alt="steps overview" width="800" />
+<img src="./Figures/steps_diagram.JPG" alt="steps overview" width="800" />
 
 ### 1. Data Collection and Transmission
 
@@ -37,7 +37,7 @@ This project focuses on detecting anomalies in temperature data collected from I
 - **MongoDB**: Data is stored in a MongoDB cloud database as JSON. After creating a collection on MongoDB, data can be stored and retrieved as needed.
 
 ### 4. Anomaly Detection
-<img src="./figures/ML_diagram.JPG" alt="ML overview" width="600" />
+<img src="./Figures/ML_diagram.JPG" alt="ML overview" width="600" />
 
 - **Machine Learning**: In the Google Colab environment, data is read using Python and analyzed using machine learning algorithms. The Isolation Forest algorithm is used to detect anomalies in the temperature data. This algorithm is unsupervised and does not require labeled data.
 - **Implementation**: The system operates in pseudo-real time. Every 10 seconds, data is read from the database, and the machine learning algorithm performs anomaly detection.
