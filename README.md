@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="./Figures/Diagram.JPG" alt="system overview" width="800" />
+<img src="./Figures/Diagram.JPG" alt="system overview" width="700" />
 
 This project focuses on detecting anomalies in temperature data collected from IoT devices. It uses a combination of hardware and software components to collect, transmit, and analyze temperature data. The goal is to identify anomalies in real-time using machine learning algorithms.
 
@@ -19,7 +19,7 @@ This project focuses on detecting anomalies in temperature data collected from I
    - **Google Colab/Python**: For applying machine learning algorithms to detect anomalies in the data.
 
 ## Steps
-<img src="./Figures/steps_diagram.JPG" alt="steps overview" width="800" />
+<img src="./Figures/steps_diagram.JPG" alt="steps overview" width="700" />
 
 ### 1. Data Collection and Transmission
 
