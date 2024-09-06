@@ -1,4 +1,4 @@
-# IoT-Based Anomaly Detection Project
+# Temperature Anomaly Detection in IoT Devices Using Machine Learning
 
 ## Overview
 
